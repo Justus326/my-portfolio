@@ -76,7 +76,7 @@ const Portfolio = () => {
 
                 <div className="flex items-center justify-center">
                    <a href={href1} target="_blank" rel="noreferrer">
-                    <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gray-400">Demo</button>
+                    <button className="w-1/1 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gray-400 rounded-2xl">Demo</button>
                    </a>
 
                    <a href={href2} target="_blank" rel="noreferrer">
